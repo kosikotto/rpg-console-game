@@ -1,0 +1,162 @@
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.exe
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.deps.json
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.runtimeconfig.json
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.pdb
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Castle.Core.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Proxies.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.ClientModel.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Diagnostics.EventLog.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Formats.Asn1.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.IO.Pipelines.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Text.Json.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Application.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Application.pdb
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.pdb
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.pdb
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.csproj.AssemblyReference.cache
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.AssemblyInfoInputs.cache
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.AssemblyInfo.cs
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.csproj.CoreCompileInputs.cache
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/T0Y9UZ_H.7FF8EC75.Up2Date
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/refint/T0Y9UZ_HSZF_2024251.Console.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.pdb
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.genruntimeconfig.cache
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/ref/T0Y9UZ_HSZF_2024251.Console.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.deps.json
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.runtimeconfig.json
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.pdb
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Azure.Core.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Azure.Identity.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Castle.Core.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Proxies.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.ClientModel.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Diagnostics.EventLog.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Formats.Asn1.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.IO.Pipelines.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Memory.Data.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Runtime.Caching.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Text.Json.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Application.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Application.pdb
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.pdb
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.pdb
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.csproj.AssemblyReference.cache
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.AssemblyInfoInputs.cache
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.AssemblyInfo.cs
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.csproj.CoreCompileInputs.cache
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/T0Y9UZ_H.7FF8EC75.Up2Date
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/refint/T0Y9UZ_HSZF_2024251.Console.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.pdb
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Console.genruntimeconfig.cache
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Console/obj/Debug/net8.0/ref/T0Y9UZ_HSZF_2024251.Console.dll

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Day_1_Report>
+  <HeroName>Vesemir</HeroName>
+  <Status>Active</Status>
+  <HealthStatus>Healthy</HealthStatus>
+  <Health>100</Health>
+  <Hunger>20</Hunger>
+  <Thirst>15</Thirst>
+  <Fatigue>30</Fatigue>
+  <Abilities>
+    <Ability>combat</Ability>
+    <Ability>sorcery</Ability>
+  </Abilities>
+  <DefeatedMonsters>
+    <Monster>-</Monster>
+  </DefeatedMonsters>
+  <CompletedTasks>
+    <Task>-</Task>
+  </CompletedTasks>
+</Day_1_Report>

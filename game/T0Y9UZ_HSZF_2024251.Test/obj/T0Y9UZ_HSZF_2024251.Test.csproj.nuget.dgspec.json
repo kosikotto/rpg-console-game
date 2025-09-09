@@ -1,0 +1,295 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Test/T0Y9UZ_HSZF_2024251.Test.csproj": {}
+  },
+  "projects": {
+    "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Application/T0Y9UZ_HSZF_2024251.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Application/T0Y9UZ_HSZF_2024251.Application.csproj",
+        "projectName": "T0Y9UZ_HSZF_2024251.Application",
+        "projectPath": "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Application/T0Y9UZ_HSZF_2024251.Application.csproj",
+        "packagesPath": "/home/puszto/.nuget/packages/",
+        "outputPath": "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/puszto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Model/T0Y9UZ_HSZF_2024251.Model.csproj": {
+                "projectPath": "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Model/T0Y9UZ_HSZF_2024251.Model.csproj"
+              },
+              "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/T0Y9UZ_HSZF_2024251.Persistence.MsSql.csproj": {
+                "projectPath": "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/T0Y9UZ_HSZF_2024251.Persistence.MsSql.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/puszto/.dotnet/sdk/8.0.411/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Model/T0Y9UZ_HSZF_2024251.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Model/T0Y9UZ_HSZF_2024251.Model.csproj",
+        "projectName": "T0Y9UZ_HSZF_2024251.Model",
+        "projectPath": "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Model/T0Y9UZ_HSZF_2024251.Model.csproj",
+        "packagesPath": "/home/puszto/.nuget/packages/",
+        "outputPath": "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/puszto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/puszto/.dotnet/sdk/8.0.411/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/T0Y9UZ_HSZF_2024251.Persistence.MsSql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/T0Y9UZ_HSZF_2024251.Persistence.MsSql.csproj",
+        "projectName": "T0Y9UZ_HSZF_2024251.Persistence.MsSql",
+        "projectPath": "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/T0Y9UZ_HSZF_2024251.Persistence.MsSql.csproj",
+        "packagesPath": "/home/puszto/.nuget/packages/",
+        "outputPath": "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/puszto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Model/T0Y9UZ_HSZF_2024251.Model.csproj": {
+                "projectPath": "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Model/T0Y9UZ_HSZF_2024251.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/puszto/.dotnet/sdk/8.0.411/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Test/T0Y9UZ_HSZF_2024251.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Test/T0Y9UZ_HSZF_2024251.Test.csproj",
+        "projectName": "T0Y9UZ_HSZF_2024251.Test",
+        "projectPath": "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Test/T0Y9UZ_HSZF_2024251.Test.csproj",
+        "packagesPath": "/home/puszto/.nuget/packages/",
+        "outputPath": "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/puszto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Application/T0Y9UZ_HSZF_2024251.Application.csproj": {
+                "projectPath": "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Application/T0Y9UZ_HSZF_2024251.Application.csproj"
+              },
+              "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Model/T0Y9UZ_HSZF_2024251.Model.csproj": {
+                "projectPath": "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Model/T0Y9UZ_HSZF_2024251.Model.csproj"
+              },
+              "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/T0Y9UZ_HSZF_2024251.Persistence.MsSql.csproj": {
+                "projectPath": "/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/T0Y9UZ_HSZF_2024251.Persistence.MsSql.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/puszto/.dotnet/sdk/8.0.411/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

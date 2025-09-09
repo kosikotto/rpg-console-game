@@ -1,0 +1,402 @@
+{
+    "heroes": [
+    {
+        "name": "Geralt",
+        "status": 0,
+        "health_status": 0,
+        "health": 100,
+        "hunger": 10,
+        "thirst": 5,
+        "fatigue": 20,
+        "abilities": [
+            "combat",
+            "alchemy"
+        ],
+        "resources": {
+            "food": 10,
+            "water": 10,
+            "weapons": 10,
+            "alchemy_ingredients": 10
+        },
+        "daysleft": 0,
+        "tasks": [],
+        "defeatedmonsters": [],
+        "completedtasks": []
+    },
+    {
+        "name": "Vesemir",
+        "status": 0,
+        "health_status": 0,
+        "health": 100,
+        "hunger": 15,
+        "thirst": 10,
+        "fatigue": 25,
+        "abilities": [
+            "combat",
+            "sorcery"
+        ],
+        "resources": {
+            "food": 10,
+            "water": 10,
+            "weapons": 10,
+            "alchemy_ingredients": 10
+        },
+        "daysleft": 0,
+        "tasks": [],
+        "defeatedmonsters": [],
+        "completedtasks": []
+    },
+    {
+        "name": "Eskel",
+        "status": 0,
+        "health_status": 0,
+        "health": 100,
+        "hunger": 12,
+        "thirst": 8,
+        "fatigue": 22,
+        "abilities": [
+            "combat",
+            "tracking"
+        ],
+        "resources": {
+            "food": 10,
+            "water": 10,
+            "weapons": 10,
+            "alchemy_ingredients": 10
+        },
+        "daysleft": 0,
+        "tasks": [],
+        "defeatedmonsters": [],
+        "completedtasks": []
+    },
+    {
+        "name": "Yennefer",
+        "status": 0,
+        "health_status": 0,
+        "health": 100,
+        "hunger": 8,
+        "thirst": 4,
+        "fatigue": 18,
+        "abilities": [
+            "sorcery",
+            "healing"
+        ],
+        "resources": {
+            "food": 10,
+            "water": 10,
+            "weapons": 10,
+            "alchemy_ingredients": 10
+        },
+        "daysleft": 0,
+        "tasks": [],
+        "defeatedmonsters": [],
+        "completedtasks": []
+    },
+    {
+        "name": "Ciri",
+        "status": 0,
+        "health_status": 0,
+        "health": 100,
+        "hunger": 10,
+        "thirst": 6,
+        "fatigue": 20,
+        "abilities": [
+            "combat",
+            "tracking"
+        ],
+        "resources": {
+            "food": 10,
+            "water": 10,
+            "weapons": 10,
+            "alchemy_ingredients": 10
+        },
+        "daysleft": 0,
+        "tasks": [],
+        "defeatedmonsters": [],
+        "completedtasks": []
+    }
+],
+    "tasks": [
+    {
+        "name": "Monster Hunt",
+        "duration": 4,
+        "required_resources": {
+            "weapons": 1,
+            "food": 2,
+            "water": 2,
+			"alchemy_ingredients": 5
+        },
+        "affected_status": {
+            "health": -20,
+            "hunger": 5,
+            "thirst": 5,
+            "fatigue": 10
+        }
+    },
+    {
+        "name": "Alchemy Preparation",
+        "duration": 2,
+        "required_resources": {
+            "weapons": 3,
+            "food": 2,
+            "water": 5,
+			"alchemy_ingredients": 4
+        },
+        "affected_status": {
+            "health": 10,
+            "hunger": 3,
+            "thirst": 3,
+            "fatigue": 5
+        }
+    },
+    {
+        "name": "Village Defense",
+        "duration": 6,
+        "required_resources": {
+            "weapons": 6,
+            "food": 5,
+            "water": 10,
+			"alchemy_ingredients": 9
+        },
+        "affected_status": {
+            "health": -15,
+            "hunger": 8,
+            "thirst": 10,
+            "fatigue": 20
+        }
+    },
+    {
+        "name": "Rare Herb Gathering",
+        "duration": 3,
+        "required_resources": {
+            "weapons": 10,
+            "food": 8,
+            "water": 4,
+			"alchemy_ingredients": 2
+        },
+        "affected_status": {
+            "health": 5,
+            "hunger": 6,
+            "thirst": 6,
+            "fatigue": 10
+        }
+    },
+    {
+        "name": "Escort Merchant",
+        "duration": 5,
+        "required_resources": {
+            "weapons": 10,
+            "food": 3,
+            "water": 1,
+			"alchemy_ingredients": 2
+        },
+        "affected_status": {
+            "health": -10,
+            "hunger": 7,
+            "thirst": 7,
+            "fatigue": 15
+        }
+    },
+    {
+        "name": "Sword Maintenance",
+        "duration": 2,
+        "required_resources": {
+            "weapons": 10,
+            "food": 8,
+            "water": 8,
+			"alchemy_ingredients": 5
+        },
+        "affected_status": {
+            "health": 0,
+            "hunger": 2,
+            "thirst": 2,
+            "fatigue": 5
+        }
+    },
+    {
+        "name": "Bandit Camp Raid",
+        "duration": 4,
+        "required_resources": {
+            "weapons": 3,
+            "food": 4,
+            "water": 6,
+			"alchemy_ingredients": 5
+        },
+        "affected_status": {
+            "health": -25,
+            "hunger": 6,
+            "thirst": 6,
+            "fatigue": 12
+        }
+    },
+    {
+        "name": "Meditation",
+        "duration": 1,
+        "required_resources": {
+            "weapons": 4,
+            "food": 3,
+            "water": 2,
+			"alchemy_ingredients": 2
+        },
+        "affected_status": {
+            "health": 15,
+            "hunger": 1,
+            "thirst": 1,
+            "fatigue": -10
+        }
+    },
+    {
+        "name": "Scout the Area",
+        "duration": 3,
+        "required_resources": {
+            "weapons": 5,
+            "food": 3,
+            "water": 2,
+			"alchemy_ingredients": 4
+        },
+        "affected_status": {
+            "health": 0,
+            "hunger": 4,
+            "thirst": 4,
+            "fatigue": 8
+        }
+    },
+    {
+        "name": "Protect Nobleman",
+        "duration": 5,
+        "required_resources": {
+            "weapons": 10,
+            "food": 6,
+            "water": 3,
+			"alchemy_ingredients": 5
+        },
+        "affected_status": {
+            "health": -10,
+            "hunger": 7,
+            "thirst": 7,
+            "fatigue": 18
+        }
+    }
+],
+    "monsters": [
+    {
+        "name": "Drowner",
+        "difficulty": 4,
+        "required_ability": "combat",
+        "loot": {
+            "weapons": 10,
+            "food": 8,
+            "water": 9,
+			"alchemy_ingredients": 10
+        }
+    },
+    {
+        "name": "Nekker",
+        "difficulty": 3,
+        "required_ability": "combat",
+        "loot": {
+            "weapons": 7,
+            "food": 6,
+            "water": 6,
+			"alchemy_ingredients": 5
+        }
+    },
+    {
+        "name": "Griffin",
+        "difficulty": 3,
+        "required_ability": "alchemy",
+        "loot": {
+            "weapons": 8,
+            "food": 5,
+            "water": 5,
+			"alchemy_ingredients": 6
+        }
+    },
+    {
+        "name": "Leshen",
+        "difficulty": 1,
+        "required_ability": "alchemy",
+        "loot": {
+            "weapons": 1,
+            "food": 3,
+            "water": 2,
+			"alchemy_ingredients": 2
+        }
+    },
+    {
+        "name": "Alghoul",
+        "difficulty": 2,
+        "required_ability": "sorcery",
+        "loot": {
+            "weapons": 3,
+            "food": 4,
+            "water": 3,
+			"alchemy_ingredients": 2
+        }
+    },
+    {
+        "name": "Fiend",
+        "difficulty": 1,
+        "required_ability": "sorcery",
+        "loot": {
+            "weapons": 3,
+            "food": 2,
+            "water": 2,
+			"alchemy_ingredients": 1
+        }
+    },
+    {
+        "name": "Noonwraith",
+        "difficulty": 3,
+        "required_ability": "alchemy",
+        "loot": {
+            "weapons": 6,
+            "food": 5,
+            "water": 6,
+			"alchemy_ingredients": 7
+        }
+    },
+    {
+        "name": "Ice Troll",
+        "difficulty": 4,
+        "required_ability": "tracking",
+        "loot": {
+            "weapons": 8,
+            "food": 10,
+            "water": 9,
+			"alchemy_ingredients": 10
+        }
+    },
+    {
+        "name": "Werewolf",
+        "difficulty": 2,
+        "required_ability": "tracking",
+        "loot": {
+            "weapons": 4,
+            "food": 3,
+            "water": 3,
+			"alchemy_ingredients": 2
+        }
+    },
+    {
+        "name": "Striga",
+        "difficulty": 3,
+        "required_ability": "healing",
+        "loot": {
+            "weapons": 7,
+            "food": 6,
+            "water": 6,
+			"alchemy_ingredients": 7
+        }
+    }
+],
+    "resources": [
+        {
+            "food": 30,
+            "water": 30,
+            "weapons": 30,
+            "alchemy_ingredients": 30
+        }
+    ],
+    "days": 0
+}

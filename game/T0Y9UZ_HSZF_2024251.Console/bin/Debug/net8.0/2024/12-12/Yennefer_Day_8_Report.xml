@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Day_8_Report>
+  <HeroName>Yennefer</HeroName>
+  <Status>Active</Status>
+  <HealthStatus>Healthy</HealthStatus>
+  <Health>100</Health>
+  <Hunger>48</Hunger>
+  <Thirst>44</Thirst>
+  <Fatigue>58</Fatigue>
+  <Abilities>
+    <Ability>sorcery</Ability>
+    <Ability>healing</Ability>
+  </Abilities>
+  <DefeatedMonsters>
+    <Monster>-</Monster>
+  </DefeatedMonsters>
+  <CompletedTasks>
+    <Task>-</Task>
+  </CompletedTasks>
+</Day_8_Report>

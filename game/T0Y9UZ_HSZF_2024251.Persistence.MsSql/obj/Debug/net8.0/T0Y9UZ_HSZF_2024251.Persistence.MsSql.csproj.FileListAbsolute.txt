@@ -1,0 +1,34 @@
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Persistence.MsSql/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.deps.json
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Persistence.MsSql/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.runtimeconfig.json
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Persistence.MsSql/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Persistence.MsSql/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.pdb
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Persistence.MsSql/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Persistence.MsSql/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.pdb
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.csproj.AssemblyReference.cache
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.AssemblyInfoInputs.cache
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.AssemblyInfo.cs
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.csproj.CoreCompileInputs.cache
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/T0Y9UZ_H.B856D06C.Up2Date
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/refint/T0Y9UZ_HSZF_2024251.Persistence.MsSql.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.pdb
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.genruntimeconfig.cache
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/ref/T0Y9UZ_HSZF_2024251.Persistence.MsSql.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.deps.json
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.runtimeconfig.json
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.pdb
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.pdb
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.csproj.AssemblyReference.cache
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.GeneratedMSBuildEditorConfig.editorconfig
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.AssemblyInfoInputs.cache
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.AssemblyInfo.cs
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.csproj.CoreCompileInputs.cache
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/T0Y9UZ_H.B856D06C.Up2Date
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/refint/T0Y9UZ_HSZF_2024251.Persistence.MsSql.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.pdb
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Persistence.MsSql.genruntimeconfig.cache
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Persistence.MsSql/obj/Debug/net8.0/ref/T0Y9UZ_HSZF_2024251.Persistence.MsSql.dll

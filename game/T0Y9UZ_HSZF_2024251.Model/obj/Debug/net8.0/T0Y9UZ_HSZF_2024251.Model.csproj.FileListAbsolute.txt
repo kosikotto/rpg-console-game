@@ -1,0 +1,22 @@
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Model/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.deps.json
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Model/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Model/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.pdb
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Model/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Model/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.AssemblyInfoInputs.cache
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Model/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.AssemblyInfo.cs
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Model/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.csproj.CoreCompileInputs.cache
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Model/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Model/obj/Debug/net8.0/refint/T0Y9UZ_HSZF_2024251.Model.dll
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Model/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.pdb
+C:/Users/ifjko/source/repos/T0Y9UZ_HSZF_2024251/T0Y9UZ_HSZF_2024251.Model/obj/Debug/net8.0/ref/T0Y9UZ_HSZF_2024251.Model.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Model/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.deps.json
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Model/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Model/bin/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.pdb
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Model/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.GeneratedMSBuildEditorConfig.editorconfig
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Model/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.AssemblyInfoInputs.cache
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Model/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.AssemblyInfo.cs
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Model/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.csproj.CoreCompileInputs.cache
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Model/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Model/obj/Debug/net8.0/refint/T0Y9UZ_HSZF_2024251.Model.dll
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Model/obj/Debug/net8.0/T0Y9UZ_HSZF_2024251.Model.pdb
+/home/puszto/Desktop/Sajat Projektek/Rpg-console-game/T0Y9UZ_HSZF_2024251.Model/obj/Debug/net8.0/ref/T0Y9UZ_HSZF_2024251.Model.dll

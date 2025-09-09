@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Day_10_Report>
+  <HeroName>Geralt</HeroName>
+  <Status>Active</Status>
+  <HealthStatus>Healthy</HealthStatus>
+  <Health>100</Health>
+  <Hunger>60</Hunger>
+  <Thirst>55</Thirst>
+  <Fatigue>70</Fatigue>
+  <Abilities>
+    <Ability>combat</Ability>
+    <Ability>alchemy</Ability>
+  </Abilities>
+  <DefeatedMonsters>
+    <Monster>-</Monster>
+  </DefeatedMonsters>
+  <CompletedTasks>
+    <Task>-</Task>
+  </CompletedTasks>
+</Day_10_Report>

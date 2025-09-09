@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Day_9_Report>
+  <HeroName>Eskel</HeroName>
+  <Status>Active</Status>
+  <HealthStatus>Healthy</HealthStatus>
+  <Health>100</Health>
+  <Hunger>57</Hunger>
+  <Thirst>53</Thirst>
+  <Fatigue>67</Fatigue>
+  <Abilities>
+    <Ability>combat</Ability>
+    <Ability>tracking</Ability>
+  </Abilities>
+  <DefeatedMonsters>
+    <Monster>-</Monster>
+  </DefeatedMonsters>
+  <CompletedTasks>
+    <Task>-</Task>
+  </CompletedTasks>
+</Day_9_Report>
