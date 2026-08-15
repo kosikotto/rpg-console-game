@@ -1,52 +1,53 @@
-⚔️ Console RPG – Shakes & Fidget Style
+# ⚔️ Console RPG – Shakes & Fidget Style
 
-Ez a projekt egy konzol alapú szerepjáték, amely a népszerű Shakes & Fidget világából merít inspirációt. Bár a felület minimalista, a háttérben egy komplex, vállalati környezetben is megálló szoftverarchitektúra biztosítja a működést.
+This project is a console-based role-playing game inspired by the popular Shakes & Fidget universe. Although the interface is minimalist, under the hood, a complex, enterprise-ready software architecture ensures smooth operation.
 
-***
+---
 
-🏗️ Architekturális megoldások
+## 🏗️ Architectural Solutions
 
-A fejlesztés fő fókusza nem csupán a játékmeneten, hanem a tiszta kód (Clean Code) és a szétválasztott felelősségi körök alkalmazásán volt:
+The main focus of the development was not only on gameplay but also on applying Clean Code principles and the separation of concerns:
 
-1. Rétegezett architektúra (Layered Architecture):
-2. Domain: Az üzleti logika és a játék entitásai.
-3. Application: A játékmenet folyamatai és szolgáltatásai.
-4. Infrastructure: Adatelérés és külső kapcsolatok kezelése.
-5. UI (Presentation): A konzolos megjelenítésért felelős réteg.
-6. Dependency Injection (DI): A komponensek közötti laza csatolás biztosítása érdekében.
-7. Adatkezelés: Entity Framework használata DB-First megközelítéssel, MSSQL adatbázis-háttérrel.
+*   **Layered Architecture:**
+    *   **Domain:** Business logic and game entities.
+    *   **Application:** Gameplay flows and services.
+    *   **Infrastructure:** Data access and external connections.
+    *   **UI (Presentation):** The layer responsible for the console display.
+*   **Dependency Injection (DI):** Implemented to ensure loose coupling between components.
+*   **Data Management:** Utilizing Entity Framework with a DB-First approach, backed by an MSSQL database.
 
-***
+---
 
-🎮 Főbb jellemzők
+## 🎮 Key Features
 
-1. Moduláris felépítés: A logika, az adatelérés és a megjelenítés élesen elkülönül, így bármelyik réteg cserélhető a többi módosítása nélkül.
-2. Verziózott adatbázis: A játék állapota és a karakteradatok MSSQL adatbázisban tárolódnak.
-3. Inspirált játékmenet: Karakterfejlődés, küldetések és statisztikák a klasszikus RPG mechanikák alapján.
+*   **Modular structure:** Logic, data access, and presentation are strictly separated, allowing any layer to be replaced without modifying the others.
+*   **Versioned database:** Game state and character data are securely stored in an MSSQL database.
+*   **Inspired gameplay:** Character progression, quests, and statistics based on classic RPG mechanics.
 
-***
+---
 
-⚠️ Ismert hibák és folyamatban lévő fejlesztések
+## ⚠️ Known Issues and Ongoing Development
 
-A projekt jelenleg aktív fejlesztés alatt áll. Jelenleg a mentés és betöltés funkció korlátozottan működik:
+The project is currently under active development. At the moment, the save and load functionality is limited:
 
-1. Hiba oka: A fájlrendszer-ellenőrzési logika (mappa és fájl létezésének validálása) hiánya miatt a program bizonyos környezetekben nem találja az írási útvonalat.
-2. Státusz: A hiba javítása és az I/O kezelés finomhangolása a következő fejlesztési ciklus része.
+*   **Cause of the issue:** Due to the lack of file system validation logic (checking for folder and file existence), the program fails to find the write path in certain environments.
+*   **Status:** Fixing this bug and fine-tuning I/O handling is part of the next development cycle.
 
-***
+---
 
-🛠️ Technológiák
+## 🛠️ Technologies
 
-1. Nyelv: C# / .NET
-2. Adatbázis: MSSQL
-3. ORM: Entity Framework
-4. Minták: Repository pattern, Dependency Injection, Layered Architecture
+*   **Language:** C# / .NET
+*   **Database:** MSSQL
+*   **ORM:** Entity Framework
+*   **Patterns:** Repository Pattern, Dependency Injection, Layered Architecture
 
-***
+---
 
-💻 Futtatás
+## 💻 Running the Project
 
-A projekt futtatása rendkívül egyszerű, nem igényel bonyolult konfigurációt:
-1. Klónozd a repository-t a gépedre.
-2. Nyisd meg a solution fájlt (pl. Visual Studio-ban).
-3. Nyomj a "Play" (Futtatás) gombra, és a konzol azonnal elindul.
+Running the project is extremely simple and requires no complex configuration:
+
+1. Clone the repository to your local machine.
+2. Open the solution file (e.g., in Visual Studio).
+3. Press the "Play" (Run) button, and the console application will launch immediately.
